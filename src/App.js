@@ -1,6 +1,13 @@
 function App() {
   return (
     <div>
+      <nav>
+        <h2>MyApp</h2>
+        <a href="/">Home</a> |{" "}
+        <a href="/">About</a> |{" "}
+        <a href="/">Contact</a>
+      </nav>
+
       <h1>MyApp Form</h1>
 
       <form>
